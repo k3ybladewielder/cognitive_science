@@ -1,5 +1,11 @@
 # Cognitive Science Roadmap
 
+## Introduction to Cognitive Science
+- **Tópicos:** Psicologia Cognitiva, Neurociência Cognitiva, Linguística Cognitiva, Computação Cognitiva, Filosofia da Mente.
+- **Fontes de Estudo:**
+  - Cognitive Science: An interdisciplinary Approach por Carolyn Sobel
+  - Cognitive Science: An Introduction to the science of the Mind por José Luis Bermúdez
+
 ## Psicologia Cognitiva:
 - **Tópicos:** 
 Função cognitiva e procesamento de informação, Percepção, atenção, memória, linguagem, raciocínio e tomada de decisão. Compreensão de linguagem e pensamento. Desenvolvimento cognitivo e aprendizagem
@@ -7,8 +13,8 @@ Função cognitiva e procesamento de informação, Percepção, atenção, memó
   - "Cognitive Psychology: Connecting Mind, Research, and Everyday Experience" por E. Bruce Goldstein.
   - "Thinking, Fast and Slow" por Daniel Kahneman.
   - ~"The Cambridge Handbook of Cognitive Psychology" editado por Keith James.~
-  - The Oxford Handbook of Cognitive Psychology
-  - Cognitive Psychology: A Student's Handbook por Michael W. Eysenck, Mark T. Keane
+  - "The Oxford Handbook of Cognitive Psychology"
+  - "Cognitive Psychology: A Student's Handbook" por Michael W. Eysenck, Mark T. Keane
   - "Cognitive Psychology" de Robert L. Solso
   - "Human Memory" de Alan Baddeley
   - Artigo "The Magical Number Seven, Plus or Minus Two" de George Miller
