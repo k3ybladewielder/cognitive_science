@@ -1,6 +1,6 @@
 # Cognitive Science Roadmap
 
-## Introduction to Cognitive Science
+## [Introduction to Cognitive Science](intro_cognitive_science.md)
 - **Tópicos:** Psicologia Cognitiva, Neurociência Cognitiva, Linguística Cognitiva, Computação Cognitiva, Filosofia da Mente.
 - **Fontes de Estudo:**
   - Cognitive Science: An interdisciplinary Approach por Carolyn Sobel
