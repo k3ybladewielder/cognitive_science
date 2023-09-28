@@ -3,7 +3,7 @@
 ## Introduction to Cognitive Science
 - **Tópicos:** Psicologia Cognitiva, Neurociência Cognitiva, Linguística Cognitiva, Computação Cognitiva, Filosofia da Mente.
 - **Fontes de Estudo:**
-  - [Cognitive Science. An Introduction to the study of mind. 4th Edition](cognitive_science_intro_mind) por Jay Friedenberg, Gordon Silverman e Michael James Spivey
+  - [Cognitive Science. An Introduction to the study of mind. 4th Edition](cognitive_science_intro_mind.md) por Jay Friedenberg, Gordon Silverman e Michael James Spivey
   - [Cognitive Science: An interdisciplinary Approach](cognitive_science_interdisciplinary_approach.md) por Carolyn Sobel
   - Cognitive Science: An Introduction to the science of the Mind por José Luis Bermúdez
 
