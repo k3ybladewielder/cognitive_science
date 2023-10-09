@@ -27,9 +27,12 @@ Existem 4 aspectos cruciais em qualquer representação:
 
 As representações mentais humanas são chamadas de **semânticas**, porquê possuem significado, principalmente as representações linguísticas. O significado de uma representação mental deriva do relacionamento entre ela mesma e o seu referent, ou seja, sobre o que ela diz. Essa relação é chamada de **intencionalidade (intencionality)**. É a direção para um objeto. Os estados mentais e eventos são intencionais, eles se referem a alguma coisa ou coisas no mundo. Essa intencionalidade provoca um comportamento ou ação que está relacionado ao referente.
 
+
 <center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
 
+
 <center>Friedenberg, Silverman e Spivey (2022)</center>
+
 
 Os símbolos são agrupados e combinados em **sistemas lógicos formais**. Nesses sistemas, os simbolos são combinados em expressões, expressões que podem ser manipuladas através de processos, resultando em novas expressões. Na lógica formal, símbolos podem ser palavras como "animais" e "humanos" e expressões como "animais bebem água". O processo seriam as regras de dedução, que permitem derivar conclusões verdadeiras de expressões conhecidas. Se "animais bebem água" e "humanos são animais", logo "humanos bebem água".
 
