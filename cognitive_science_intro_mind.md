@@ -1,5 +1,10 @@
 # Cognitive Science. An Introduction to the study of mind. 4th Edition 
-por Jay Friedenberg, Gordon Silverman e Michael James Spivey
+- Autor(es): Friedenberg, J.; Silverman, G.; Spivey, M. J.
+- Título: Cognitive Science: An Introduction to the Study of Mind
+- Edição: 4ª ed.
+- Local de Publicação: Thousand Oaks, California
+- Editora: SAGE Publications, Inc.
+- Ano de Publicação: 2022
 
 # INTRODUCTION
 # What is Decicion Science
@@ -22,7 +27,8 @@ Existem 4 aspectos cruciais em qualquer representação:
 
 As representações mentais humanas são chamadas de **semânticas**, porquê possuem significado, principalmente as representações linguísticas. O significado de uma representação mental deriva do relacionamento entre ela mesma e o seu referent, ou seja, sobre o que ela diz. Essa relação é chamada de **intencionalidade (intencionality)**. É a direção para um objeto. Os estados mentais e eventos são intencionais, eles se referem a alguma coisa ou coisas no mundo. Essa intencionalidade provoca um comportamento ou ação que está relacionado ao referente.
 
-<img src="cognitive_science_intro_mind_fig1-2.png">
+<center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
+<center>Friedenberg, Silverman e Spivey (2022)</center>
 
 Os símbolos são agrupados e combinados em **sistemas lógicos formais**. Nesses sistemas, os simbolos são combinados em expressões, expressões que podem ser manipuladas através de processos, resultando em novas expressões. Na lógica formal, símbolos podem ser palavras como "animais" e "humanos" e expressões como "animais bebem água". O processo seriam as regras de dedução, que permitem derivar conclusões verdadeiras de expressões conhecidas. Se "animais bebem água" e "humanos são animais", logo "humanos bebem água".
 
@@ -33,7 +39,9 @@ Nossa mente performa computações com essas representações mentais, desde ope
 Esse processamento de informações, de computação, pode ser descrito de diferentes níveis. E, de acordo com o **Tri-level hypotesis** (uma ferramenta de estudo da cognição), processamentos de informação biológicos ou artificiais podem ser avaliados em pelo menos três níveis:
 - **Nível computacional**: Nesse nível mais alto e abstrato, estamos focados em especificiar claramente o problema, e, quebra-lo em seus principais componentes. Aqui, o objetivo é descrever o problema de forma precisa, para que o problema possa ser investigado utilizando métodos formais. Além disso buscamos o propósito ou razão para esse processo, por quê ele é necessário.
 - **Nível algorítmico**: Nesse segundo nível menos abastrato, utilizamos procedimentos formais, **algoritmos**, para atuar nas representações mentais de informação. Aqui, algoritmos podem ser executados independente do sentido e significado de uma representação. **Os algoritmos agem na forma**, não no significado dos símbolos que eles transformam. Uma forma de pensar algoritmos são as etapas que são utilizadas pra manipular e alterar representações. São os passos de processamento de informação para resolução de problemas.
-<img src="cognitive_science_intro_mind_fig1-2.png">
+<center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
+<center>Friedenberg, Silverman e Spivey (2022)</center>
+
 - **Nível implementacional**: Essa é a etapa mais concreta, as vezes chamada de **hardware level**, em que do que é feito o processador de informação e quais mudanças físicas ou materiais afetam o processamento de informações. Assim como um computador é composto de várias partes de hardware, o nosso hardware biológico cognitivo é o cérebro e nosso corpo, que numa escala menor, é composto de neurônios e a atividade sinapticas deles. 
 
 
@@ -57,3 +65,7 @@ Um dos principais problemas abordados pela filosofia da mente é o problema ment
 ## The Linguistic Approach
 ## The Artificial Intelligence Approach
 ## The Robotics Approach
+
+# References
+FRIEDENBERG, Jay; SILVERMAN, Gordon; SPIVEY, Michael J. Cognitive Science: An Introduction to the Study of Mind. 4ª ed. Thousand Oaks, California: SAGE Publications, Inc., 2022.
+
