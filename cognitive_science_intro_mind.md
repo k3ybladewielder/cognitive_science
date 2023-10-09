@@ -28,9 +28,7 @@ Existem 4 aspectos cruciais em qualquer representação:
 As representações mentais humanas são chamadas de **semânticas**, porquê possuem significado, principalmente as representações linguísticas. O significado de uma representação mental deriva do relacionamento entre ela mesma e o seu referent, ou seja, sobre o que ela diz. Essa relação é chamada de **intencionalidade (intencionality)**. É a direção para um objeto. Os estados mentais e eventos são intencionais, eles se referem a alguma coisa ou coisas no mundo. Essa intencionalidade provoca um comportamento ou ação que está relacionado ao referente.
 
 
-<center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
-
-
+<center><img src="cognitive_science_intro_mind_fig1-1.png"></center>
 <center>Friedenberg, Silverman e Spivey (2022)</center>
 
 
@@ -46,7 +44,6 @@ Esse processamento de informações, de computação, pode ser descrito de difer
 
 
 <center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
-
 <center>Friedenberg, Silverman e Spivey (2022)</center>
 
 - **Nível implementacional**: Essa é a etapa mais concreta, as vezes chamada de **hardware level**, em que do que é feito o processador de informação e quais mudanças físicas ou materiais afetam o processamento de informações. Assim como um computador é composto de várias partes de hardware, o nosso hardware biológico cognitivo é o cérebro e nosso corpo, que numa escala menor, é composto de neurônios e a atividade sinapticas deles. 
@@ -64,7 +61,7 @@ O método primário da abordagem filosófica é o raciocínio, seja ele dedutivo
 
 <center><img src="indutive_dedutive_method.png"></center>
 
-Um dos principais problemas abordados pela filosofia da mente é o problema mente-corpo. Que busca definir o que é a mente, se ela faz parte do corpo, se faz, qual parte exatamente está localizada ou é a mente, e caso não seja algo físico, o que exatamente ela é. Isso é feito através das perspectivas do monismo, dualismo, e funcionalismo. Outro problema abordado é o da aquisição do conhecimento.
+Um dos principais problemas abordados pela filosofia da mente é o problema mente-corpo. Que busca definir o que é a mente, se ela faz parte do corpo, se faz, qual parte exatamente está localizada ou é a mente, e caso não seja algo físico, o que exatamente ela é. Além disso, se mentes existem somente em cérebros ou podem surgir de entidades complexas, como computadores. Isso é feito através das perspectivas do monismo, dualismo, e funcionalismo. Outro problema abordado é o da aquisição do conhecimento e se ele é fruto da genética ou da interação com o ambiente, e o quanto esses fatores podem contribuir para as habilidades mentais. E um dos maiores problemas é o da **consciencia**, sobre o que é consciencia exatamente. 
 
 ## The Psychological Approach
 ## The Cognitive Approach ?
