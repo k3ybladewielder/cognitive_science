@@ -28,7 +28,7 @@ Existem 4 aspectos cruciais em qualquer representação:
 As representações mentais humanas são chamadas de **semânticas**, porquê possuem significado, principalmente as representações linguísticas. O significado de uma representação mental deriva do relacionamento entre ela mesma e o seu referent, ou seja, sobre o que ela diz. Essa relação é chamada de **intencionalidade (intencionality)**. É a direção para um objeto. Os estados mentais e eventos são intencionais, eles se referem a alguma coisa ou coisas no mundo. Essa intencionalidade provoca um comportamento ou ação que está relacionado ao referente.
 
 <center><img src="cognitive_science_intro_mind_fig1-1.png"></center>
-<center>```Friedenberg, Silverman e Spivey (2022)```</center>
+<center>Friedenberg, Silverman e Spivey (2022)</center>
 
 Os símbolos são agrupados e combinados em **sistemas lógicos formais**. Nesses sistemas, os simbolos são combinados em expressões, expressões que podem ser manipuladas através de processos, resultando em novas expressões. Na lógica formal, símbolos podem ser palavras como "animais" e "humanos" e expressões como "animais bebem água". O processo seriam as regras de dedução, que permitem derivar conclusões verdadeiras de expressões conhecidas. Se "animais bebem água" e "humanos são animais", logo "humanos bebem água".
 
@@ -42,7 +42,7 @@ Esse processamento de informações, de computação, pode ser descrito de difer
 
 
 <center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
-<center>```Friedenberg, Silverman e Spivey (2022)```</center>
+<center>Friedenberg, Silverman e Spivey (2022)</center>
 
 - **Nível implementacional**: Essa é a etapa mais concreta, as vezes chamada de **hardware level**, em que do que é feito o processador de informação e quais mudanças físicas ou materiais afetam o processamento de informações. Assim como um computador é composto de várias partes de hardware, o nosso hardware biológico cognitivo é o cérebro e nosso corpo, que numa escala menor, é composto de neurônios e a atividade sinapticas deles. 
 
@@ -70,7 +70,14 @@ O campo da psicologia é amplo, abarcando diversas subdisciplinas. E cada uma de
 
 Os voluntaristas e estruturalistas veem a mente como um aglomerado de reações químicas que geram os fenômenos mentais. Já os funcionalistas veem a mente de acordo com suas funções, operações, o que ela pode fazer. A psicologia psicanalítica concebe a mente como uma coleção de subsistemas mentais diferentes e concorrentes, enquanto o behaviorismo a vê como algo que mapeia estímulos em respostas.
 
-## The Cognitive Approach ?
+## The Cognitive Approach
+A psicologia cognitiva surgiu como uma nova forma de psicologia, como uma oposição ao movimento behaviorista, que tinha um foco profundo no **comportamento** e negligenciava as computações mentais. Psicologos cognitivos renovaram a ênfase no estudo das operações mentais internas. Eles adotaram o **computador como uma metáfora para a mente**, descrevendo as funções mentais em termos de representação e computação. Eles acreditam que a mente pode ser compreendida como um processador de informações, assim como um computador.
+
+Um conceito inerente a abordagem cognitiva é o de **modularidade**. Módulos são unidades funcionais independentes que recebem inputs de outros módulos, executam uma tarefa de processamento específica, e envia os resultados dessa computação à outros módulos. Isso influenciou e fez com que os métodos experimentais e modelagens computacionais adotassem essa abordagem. Uma modelagem computacional envolve a realização de uma implementação formal (normalmente baseada em software) de um processo cognitivo. Os pesquisadores exemcutam esse processo de modelagem pra simular como o processo opera na mente humana, podendo alterar parâmetros do modelo ou sua estrutura para alcançar resultados próximos aos obtidos com experimentações com humanos. Este uso de modelagem e comparação com dados experimentais é um ponto forte da psicologia cognitiva e também é usado nas abordagens de **IA e redes artificiais**.
+
+Os psicólogos cognitivos estudaram uma ampla variedade de processos mentais, incluindo reconhecimento de padrões, atenção, memória, imagens e resolução de problemas.
+
+
 ## The Neuroscience Approach ?
 ## The Linguistic Approach
 ## The Artificial Intelligence Approach
