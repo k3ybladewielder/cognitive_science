@@ -27,10 +27,8 @@ Existem 4 aspectos cruciais em qualquer representação:
 
 As representações mentais humanas são chamadas de **semânticas**, porquê possuem significado, principalmente as representações linguísticas. O significado de uma representação mental deriva do relacionamento entre ela mesma e o seu referent, ou seja, sobre o que ela diz. Essa relação é chamada de **intencionalidade (intencionality)**. É a direção para um objeto. Os estados mentais e eventos são intencionais, eles se referem a alguma coisa ou coisas no mundo. Essa intencionalidade provoca um comportamento ou ação que está relacionado ao referente.
 
-<div style="text-align: center;">
-<img src="cognitive_science_intro_mind_fig1-1.png">
-Friedenberg, Silverman e Spivey (2022)
-</div>
+<center><img src="cognitive_science_intro_mind_fig1-1.png"></center>
+<center>```Friedenberg, Silverman e Spivey (2022)```</center>
 
 Os símbolos são agrupados e combinados em **sistemas lógicos formais**. Nesses sistemas, os simbolos são combinados em expressões, expressões que podem ser manipuladas através de processos, resultando em novas expressões. Na lógica formal, símbolos podem ser palavras como "animais" e "humanos" e expressões como "animais bebem água". O processo seriam as regras de dedução, que permitem derivar conclusões verdadeiras de expressões conhecidas. Se "animais bebem água" e "humanos são animais", logo "humanos bebem água".
 
@@ -42,12 +40,12 @@ Esse processamento de informações, de computação, pode ser descrito de difer
 - **Nível computacional**: Nesse nível mais alto e abstrato, estamos focados em especificiar claramente o problema, e, quebra-lo em seus principais componentes. Aqui, o objetivo é descrever o problema de forma precisa, para que o problema possa ser investigado utilizando métodos formais. Além disso buscamos o propósito ou razão para esse processo, por quê ele é necessário.
 - **Nível algorítmico**: Nesse segundo nível menos abastrato, utilizamos procedimentos formais, **algoritmos**, para atuar nas representações mentais de informação. Aqui, algoritmos podem ser executados independente do sentido e significado de uma representação. **Os algoritmos agem na forma**, não no significado dos símbolos que eles transformam. Uma forma de pensar algoritmos são as etapas que são utilizadas pra manipular e alterar representações. São os passos de processamento de informação para resolução de problemas.
 
-<div style="text-align: center;">
-<img src="cognitive_science_intro_mind_fig1-2.png">
-Friedenberg, Silverman e Spivey (2022)
-</div>
+
+<center><img src="cognitive_science_intro_mind_fig1-2.png"></center>
+<center>```Friedenberg, Silverman e Spivey (2022)```</center>
 
 - **Nível implementacional**: Essa é a etapa mais concreta, as vezes chamada de **hardware level**, em que do que é feito o processador de informação e quais mudanças físicas ou materiais afetam o processamento de informações. Assim como um computador é composto de várias partes de hardware, o nosso hardware biológico cognitivo é o cérebro e nosso corpo, que numa escala menor, é composto de neurônios e a atividade sinapticas deles. 
+
 
 Essa forma de particionar a análise do processamento de informações nesses 3 níveis é criticado por ser fundamentalmente simplista, já que os níveis interagem entre si. E cada um poderia facilmente gerar diversas subdivisões, mas para fins didáticos, é uma ótima ferramenta.
 
@@ -59,9 +57,7 @@ A abordagem filosófica tem suas origens na Grécia antiga, com os filósofos bu
 
 O método primário da abordagem filosófica é o raciocínio, seja ele dedutivo ou indutivo. O **raciocínio dedutivo** é a aplicação de regras de lógica em afirmações sobre o mundo, dado um conjunto inicial de afirmações (premissas) assumidas como verdadeiras, podemos derivar outras afirmações que logicamente devem ser corretas. Já no **raciocínio indutivo**, são feitas observações sobre o mundo, e ao perceber pontos em comuns, podemos generalizar as conclusões.
 
-<div style="text-align: center;">
-<img src="indutive_dedutive_method.png">
-</div>
+<center><img src="indutive_dedutive_method.png"></center>
 
 Um dos principais problemas abordados pela filosofia da mente é o problema mente-corpo. Que busca definir o que é a mente, se ela faz parte do corpo, se faz, qual parte exatamente está localizada ou é a mente, e caso não seja algo físico, o que exatamente ela é. Além disso, se mentes existem somente em cérebros ou podem surgir de entidades complexas, como computadores. Isso é feito através das perspectivas do monismo, dualismo, e funcionalismo. Outro problema abordado é o da aquisição do conhecimento e se ele é fruto da genética ou da interação com o ambiente, e o quanto esses fatores podem contribuir para as habilidades mentais. E um dos maiores problemas é o da **consciencia**, sobre o que é consciencia exatamente. 
 
