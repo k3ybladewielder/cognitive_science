@@ -83,7 +83,17 @@ O campo que estuda o cérebro e o sistema endócrino e como eles explicam os est
 
 A neurociência provê descrições de eventos mentais a **nível implementacional**, ou seja, no nosso "hardware" biológico, em que o nosso "software" mental é executado. Os neurocientistas investigam explicações para vários processos cognitivos em vários níveis de escala ~, como regiões específicas, conexões neurais, neurônios, sinapses, moléculas, etc~. Estudam a química de neurotransmissores, a biologia celular de neurônios individualmente, o processo de transmissão sináptica entre neurônios, o padrão de atividades em polulações celulares locais, a interrelação entre grandes áreas cerebrais, etc.
 
+Os neurocientistas empregam uma ampla gama de métodos para mensurar a performace da atividade cerebral. Incluindo eletroencefalografia (FEG ou EEG) que detecta alterações nos campos elétricos gerados por grandes grupos de neurônios altamente ativos, magnetoencefalografia (MEG) que detecta alterações nos campos magnéticos gerados por grupos de neurônios altamente ativos e imagem de ressonância magnética funcional (fMRI) que detecta mudanças nas propriedades magnéticas do sangue oxigenado sendo entregue a pequenos grupos de neurônios altamente ativos, bem como muitos outros. 
+
+Os estudos que utilizam esses procedimentos fazem com que os participantes realizem uma tarefa cognitiva e a atividade cerebral concomitante ao desempenho da tarefa é registrada. Por exemplo, pode ser solicitado a um participante que forme uma imagem mental de um objeto específico com os olhos fechados. Os pesquisadores podem então determinar quais partes do cérebro se tornam ativas durante as imagens visuais e em que ordem. Os neurocientistas também usam outras técnicas.
+
+Eles estudam pacientes com lesões cerebrais e os efeitos das lesões em animais de laboratório, e usam técnicas de registro de células únicas e múltiplas.
+
 ## The Linguistic Approach
+A linguística é a area que foca exclusivamente no domínio da linguagem, focando em questões sobre as habilidades linguísticas, como o que é a linguagem, como adquirimos linguagem, quais partes do cérebro estão subjacentes ao uso da linguagem. A linguagem também é estudada por outros campos como neurociência e psicologia cognitiva.
+
+A linguagem em si é um fenomeno complexo, o que faz com que muitos peqsuisadores se dediquem a entender sua natureza. Eles buscam entender sobre as propriedades que as lingaugens compartilhasm seus elementos e como esses elementos são usados durante a comunicação. Outros focos estão em como adquirimos linguagem, déficits nessa aquisição causados por privação sensorial ou danos no cérebro, **o relacionamento entre linguagem e pensamento**, linguagens usadas por primatas não humanos e o desenvolvimento de **sistemas automatizados de reconhecimento de fala**.
+
 ## The Artificial Intelligence Approach
 ## The Robotics Approach
 
