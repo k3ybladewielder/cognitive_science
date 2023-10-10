@@ -78,7 +78,11 @@ Um conceito inerente a abordagem cognitiva é o de **modularidade**. Módulos s�
 Os psicólogos cognitivos estudaram uma ampla variedade de processos mentais, incluindo reconhecimento de padrões, atenção, memória, imagens e resolução de problemas.
 
 
-## The Neuroscience Approach ?
+## The Neuroscience Approach
+O campo que estuda o cérebro e o sistema endócrino e como eles explicam os estados mentais e comportamentos é a **neurociência**. E através dos avanços tecnológicos, foram possíveis muitos avanços no entendimento do cérebro, principalmente em termos de como os processos neuronais podem explicar os fenômenos cognitivos.
+
+A neurociência provê descrições de eventos mentais a **nível implementacional**, ou seja, no nosso "hardware" biológico, em que o nosso "software" mental é executado. Os neurocientistas investigam explicações para vários processos cognitivos em vários níveis de escala ~, como regiões específicas, conexões neurais, neurônios, sinapses, moléculas, etc~. Estudam a química de neurotransmissores, a biologia celular de neurônios individualmente, o processo de transmissão sináptica entre neurônios, o padrão de atividades em polulações celulares locais, a interrelação entre grandes áreas cerebrais, etc.
+
 ## The Linguistic Approach
 ## The Artificial Intelligence Approach
 ## The Robotics Approach
