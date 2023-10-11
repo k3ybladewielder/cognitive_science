@@ -50,7 +50,8 @@ Esse processamento de informações, de computação, pode ser descrito de difer
 Essa forma de particionar a análise do processamento de informações nesses 3 níveis é criticado por ser fundamentalmente simplista, já que os níveis interagem entre si. E cada um poderia facilmente gerar diversas subdivisões, mas para fins didáticos, é uma ótima ferramenta.
 
 # APPROACHES
-Como dito anteriormente, Ciência Cognitiva é o campo científico interdisciplinar do estudo da mente, composta de várias abordagens, composta de **suas interações**, e os maiores avanços sobre a compreensão da mente surgiram dessa cooperação interdisciplinar. As maiores contribuições teóricas de cada abordagem são brevemente descritas em termos de perspectiva, história e metodologia.
+Como dito anteriormente, Ciência Cognitiva é o campo científico interdisciplinar do estudo da mente, composta de várias abordagens, composta de **suas interações**, e os maiores avanços sobre a compreensão da mente surgiram dessa cooperação interdisciplinar. 
+Abaixo falo brevemente sobre **alguns** campos, dos vários abordados por Friedenberg, Silverman e Spivey. As maiores contribuições teóricas de cada abordagem são descritas por eles em termos de perspectiva, história e metodologia em na sua obra.
 
 ## The Philosofical Approach
 A abordagem filosófica tem suas origens na Grécia antiga, com os filósofos buscando responder desde as questões mais básicas sobre a realidade e universo. Essa bordagem é livre pra estudar qualquer tipo de questão sobre qualquer tema. Desde a natureza da **aquisição do conhecimento** até a política, ética e beleza. Os **filósofos da mente**, dirigem seu foco em problemas sobre a natureza e característica da mente. Eles buscam responder o que é a mente, como sabemos aprendemos as coisas, como o conhecimento mental é organizado, etc.
