@@ -35,7 +35,6 @@ Os símbolos são agrupados e combinados em **sistemas lógicos formais**. Nesse
 ## Computation
 Nossa mente performa computações com essas representações mentais, desde operações matemáticas como adição, subitração, divisão, etc, além de fazer com a linguagem como conjugações verbais, e a lista de possíveis computações possíveis é infinita. Por isso, é melhor pensar em operações mentais como operações de categorias mais amplas. Essas categorias são definidas pelo tipo de operação performada ou pelo tipo de informação em que agiu sobre. Algumas dessas operações mentais incluem **sensação, percepção, atenção, memória, linguagem, raciocínio matemático, raciocínio lógico, tomada de decisão e resolução de problemas**.
 
-
 Esse processamento de informações, de computação, pode ser descrito de diferentes níveis. E, de acordo com o **Tri-level hypotesis** (uma ferramenta de estudo da cognição), processamentos de informação biológicos ou artificiais podem ser avaliados em pelo menos três níveis:
 - **Nível computacional**: Nesse nível mais alto e abstrato, estamos focados em especificiar claramente o problema, e, quebra-lo em seus principais componentes. Aqui, o objetivo é descrever o problema de forma precisa, para que o problema possa ser investigado utilizando métodos formais. Além disso buscamos o propósito ou razão para esse processo, por quê ele é necessário.
 - **Nível algorítmico**: Nesse segundo nível menos abastrato, utilizamos procedimentos formais, **algoritmos**, para atuar nas representações mentais de informação. Aqui, algoritmos podem ser executados independente do sentido e significado de uma representação. **Os algoritmos agem na forma**, não no significado dos símbolos que eles transformam. Uma forma de pensar algoritmos são as etapas que são utilizadas pra manipular e alterar representações. São os passos de processamento de informação para resolução de problemas.
@@ -45,7 +44,6 @@ Esse processamento de informações, de computação, pode ser descrito de difer
 <center>Friedenberg, Silverman e Spivey (2022)</center>
 
 - **Nível implementacional**: Essa é a etapa mais concreta, as vezes chamada de **hardware level**, em que do que é feito o processador de informação e quais mudanças físicas ou materiais afetam o processamento de informações. Assim como um computador é composto de várias partes de hardware, o nosso hardware biológico cognitivo é o cérebro e nosso corpo, que numa escala menor, é composto de neurônios e a atividade sinapticas deles. 
-
 
 Essa forma de particionar a análise do processamento de informações nesses 3 níveis é criticado por ser fundamentalmente simplista, já que os níveis interagem entre si. E cada um poderia facilmente gerar diversas subdivisões, mas para fins didáticos, é uma ótima ferramenta.
 
@@ -78,7 +76,6 @@ Um conceito inerente a abordagem cognitiva é o de **modularidade**. Módulos s�
 
 Os psicólogos cognitivos estudaram uma ampla variedade de processos mentais, incluindo reconhecimento de padrões, atenção, memória, imagens e resolução de problemas.
 
-
 ## The Neuroscience Approach
 O campo que estuda o cérebro e o sistema endócrino e como eles explicam os estados mentais e comportamentos é a **neurociência**. E através dos avanços tecnológicos, foram possíveis muitos avanços no entendimento do cérebro, principalmente em termos de como os processos neuronais podem explicar os fenômenos cognitivos.
 
@@ -96,7 +93,9 @@ A linguística é a area que foca exclusivamente no domínio da linguagem, focan
 A linguagem em si é um fenomeno complexo, o que faz com que muitos peqsuisadores se dediquem a entender sua natureza. Eles buscam entender sobre as propriedades que as lingaugens compartilhasm seus elementos e como esses elementos são usados durante a comunicação. Outros focos estão em como adquirimos linguagem, déficits nessa aquisição causados por privação sensorial ou danos no cérebro, **o relacionamento entre linguagem e pensamento**, linguagens usadas por primatas não humanos e o desenvolvimento de **sistemas automatizados de reconhecimento de fala**.
 
 ## The Artificial Intelligence Approach
-## The Robotics Approach
+A área de Inteligência artificial busca mimetizar processos de pensamentos complexos. Os pesquisadores da área focam e buscam em fazer com que computadores executem tarefas, que até o momento, que requerem inteligência humana (mesmo a definição de "inteligência" sendo bem abstrata em muitos casos). Para isso, desenvolvem programas para resolver tarefas que requerem raciocínio complexo. O desenvolvimento desses programas também trazem insights sobre as funções humanas de operações mentais (como o exmeplo da conta). 
+
+Os métodos empregados na perspectiva de AI incluem o desenvolvimento e teste de **algoritmos computacionais**, comparação com dados empíricos ou performaces padrão e suas subsequentes modificações.
 
 # References
 FRIEDENBERG, Jay; SILVERMAN, Gordon; SPIVEY, Michael J. Cognitive Science: An Introduction to the Study of Mind. 4ª ed. Thousand Oaks, California: SAGE Publications, Inc., 2022.
