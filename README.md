@@ -7,6 +7,10 @@ Roadmap com materiais e anotações de leituras e estudos.
   - [Cognitive Science. An Introduction to the study of mind. 4th Edition](cognitive_science_intro_mind.md) por Jay Friedenberg, Gordon Silverman e Michael James Spivey
   - [Cognitive Science: An interdisciplinary Approach](cognitive_science_interdisciplinary_approach.md) por Carolyn Sobel
   - Cognitive Science: An Introduction to the science of the Mind por José Luis Bermúdez
+  - Cognitive Neuroscience: The Biology of the Mind por Michael Gazzaniga, Richard B Ivry (Autor), George R Mangun PH D
+  - Cognition: Theories and Applications 9th Edition por Stephen K. Reed
+  - Manual de psicologia cognitiva por Michael W. Eysenck, Mark T. Keane, Antônio Jaeger
+  - Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain por Grace Lindsay
 
 ## Psicologia Cognitiva:
 - **Tópicos:** 
