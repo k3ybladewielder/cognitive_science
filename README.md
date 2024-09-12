@@ -69,4 +69,17 @@ Função cognitiva e procesamento de informação, Percepção, atenção, memó
   - Artigo "The Ethics of Artificial Intelligence" de Luciano Floridi
   
 ## Cursos
+- RES.9-003 | Summer 2015 | [Brains, Minds and Machines Summer Course](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
 - RES.9-008 | Fall 2023 | [Brain and Cognitive Sciences Computational Tutorial Series](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/)
+- 9.66J | Fall 2004 | [Computational Cognitive Science](https://ocw.mit.edu/courses/9-66j-computational-cognitive-science-fall-2004/)
+- 9.011 | Fall 2002 | [The Brain and Cognitive Sciences I](https://ocw.mit.edu/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/)
+- 9.012 | Spring 2002 | [The Brain and Cognitive Sciences II](https://ocw.mit.edu/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/)
+- 9.07 | Fall 2016 | [Statistics for Brain and Cognitive Science](https://ocw.mit.edu/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/)
+- 9.52-C | Spring 2003 | [Computational Cognitive Science](https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003/)
+- 9.63 | Fall 2002 | [Laboratory in Cognitive Science](https://ocw.mit.edu/courses/9-63-laboratory-in-cognitive-science-fall-2002/)
+- 9.912 | Fall 2001 | [Special Topics in Brain and Cognitive Sciences](https://ocw.mit.edu/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/)
+- 9.95-A | January IAP 2003 | [Research Topics in Neuroscience](https://ocw.mit.edu/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/)
+- 9.65 | Spring 2004 | [Cognitive Processes](https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/)
+- 9.69 | Spring 2003 | [Foundations of Cognition](https://ocw.mit.edu/courses/9-69-foundations-of-cognition-spring-2003/)
+- 9.59J | Spring 2017 | [Lab in Psycholinguistics](https://ocw.mit.edu/courses/9-59j-lab-in-psycholinguistics-spring-2017/)
+- 24.244 | Spring 2015 | [Modal Logic](https://ocw.mit.edu/courses/24-244-modal-logic-spring-2015/)
