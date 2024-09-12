@@ -67,3 +67,6 @@ Função cognitiva e procesamento de informação, Percepção, atenção, memó
   - "Robotics: Modelling, Planning and Control" de Siciliano et al.
   - Artigo "Deep Learning" de Yoshua Bengio, Ian Goodfellow e Aaron Courville
   - Artigo "The Ethics of Artificial Intelligence" de Luciano Floridi
+  
+## Cursos
+- RES.9-008 | Fall 2023 | [Brain and Cognitive Sciences Computational Tutorial Series](https://ocw.mit.edu/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/)
